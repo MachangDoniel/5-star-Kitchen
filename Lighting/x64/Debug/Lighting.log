@@ -1,0 +1,1860 @@
+﻿  main.cpp
+F:\Academic\Projects\Your Kitchen\Graphics-Project\cylinder.h(187,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Academic\Projects\Your Kitchen\Graphics-Project\cylinder.h(191,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Academic\Projects\Your Kitchen\Graphics-Project\cylinder.h(215,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Academic\Projects\Your Kitchen\Graphics-Project\cylinder.h(217,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Academic\Projects\Your Kitchen\Graphics-Project\cylinder.h(185,28): warning C4101: 'xz': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+F:\Academic\Projects\Your Kitchen\Graphics-Project\curve.h(85,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+F:\Academic\Projects\Your Kitchen\Graphics-Project\curve.h(88,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+F:\Academic\Projects\Your Kitchen\Graphics-Project\curve.h(98,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Academic\Projects\Your Kitchen\Graphics-Project\curve.h(104,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Academic\Projects\Your Kitchen\Graphics-Project\curve.h(105,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(212,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(213,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(214,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(215,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(216,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(217,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(218,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(219,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(220,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(221,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(222,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(223,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(224,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,13): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,13): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,13): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,13): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,21): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,21): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,21): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(225,21): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,13): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,13): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,13): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,13): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,21): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,21): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,21): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(226,21): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,13): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,13): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,13): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,13): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,21): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,21): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,21): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(227,21): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(228,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(229,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(229,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(229,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(229,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(229,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(229,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(229,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(229,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(229,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(229,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(230,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(231,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(232,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(233,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(234,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(235,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(236,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(237,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(238,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(239,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(240,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(241,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(242,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(243,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(244,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(245,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(246,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(247,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,13): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,13): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,13): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,13): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,21): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,21): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,21): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(248,21): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,13): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,13): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,13): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,13): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,21): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,21): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,21): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(249,21): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,13): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,13): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,13): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,13): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,21): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,21): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,21): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(250,21): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,13): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,13): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,13): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,13): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,21): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,21): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,21): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(251,21): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(254,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(255,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(256,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(257,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(258,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(259,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(260,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(261,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(262,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(263,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(264,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(265,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(266,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(267,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(268,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(269,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(270,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(271,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(272,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(273,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(274,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(275,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(276,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(277,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,10): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,10): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,10): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,10): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,18): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,18): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,18): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(278,18): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,1): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,1): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,1): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,1): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,9): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,9): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,9): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,9): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,17): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,17): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,17): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(279,17): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(283,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(284,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(285,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(286,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(287,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(288,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(289,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(290,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(291,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(292,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(293,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(294,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(295,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(296,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(297,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(297,13): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(297,13): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(297,13): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(297,13): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(297,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(297,21): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(297,21): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(297,21): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(297,21): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,13): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,13): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,13): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,13): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,21): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,21): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,21): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(298,21): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(301,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(302,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(303,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(304,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(305,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(306,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(307,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(308,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(309,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(310,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(311,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(312,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(313,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(314,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(315,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(315,13): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(315,13): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(315,13): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(315,13): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(315,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(315,21): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(315,21): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(315,21): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(315,21): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,13): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,13): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,13): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,13): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,21): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,21): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,21): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(316,21): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(319,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(320,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(321,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(322,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(323,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(324,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(325,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(326,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(327,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(328,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(329,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(330,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(331,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(332,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(335,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,14): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,14): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,14): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,14): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(336,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(337,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(337,5): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(337,5): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(337,5): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(337,5): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(337,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(337,22): warning C4305:         with
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(337,22): warning C4305:         [
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(337,22): warning C4305:             _Ty=float
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(337,22): warning C4305:         ]
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(762,79): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(766,80): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(766,31): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(773,89): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(777,91): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(777,31): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(850,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(850,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(854,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(854,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(858,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(858,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(862,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(862,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(862,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(866,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(866,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(866,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1043,13): warning C4804: '+=': unsafe use of type 'bool' in operation
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1044,20): warning C4804: '%': unsafe use of type 'bool' in operation
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1127,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1127,55): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1127,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1127,37): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1127,32): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1127,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1132,90): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1132,84): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1132,79): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1132,33): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1136,90): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1136,84): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1136,79): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1136,33): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1141,90): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1141,84): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1141,79): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(1141,33): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(753,100): warning C4101: 'translate2': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2192,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2196,82): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2200,82): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2204,83): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2208,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2208,29): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2212,89): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2212,84): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2217,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2217,77): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2221,93): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2221,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2221,35): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2221,29): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2221,23): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2187,32): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2187,15): warning C4101: 'translateMatrix': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2232,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2236,91): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2240,91): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2244,82): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2249,82): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2254,93): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2258,28): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2261,28): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2264,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2227,32): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2227,15): warning C4101: 'translateMatrix': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2276,45): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2276,23): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2280,44): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2280,23): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2284,49): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2284,44): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2284,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2288,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2288,45): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2288,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2295,71): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2302,81): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2302,71): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2269,32): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2315,32): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2315,15): warning C4101: 'translateMatrix': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2322,32): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2322,15): warning C4101: 'translateMatrix': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2365,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2365,77): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2369,87): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2369,82): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2369,77): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2373,89): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2373,77): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2377,92): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2377,79): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2377,23): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2381,91): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2381,79): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2385,94): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2385,81): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2385,23): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2364,32): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2364,15): warning C4101: 'translateMatrix': unreferenced local variable
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2431,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2434,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2444,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2450,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2451,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2878,40): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2878,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2891,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2891,42): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2891,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2894,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2894,42): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2894,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2908,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2908,40): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2908,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2917,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2917,33): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2917,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2920,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Academic\Projects\Your Kitchen\Graphics-Project\main.cpp(2920,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lighting.vcxproj -> F:\Academic\Projects\Your Kitchen\Graphics-Project\x64\Debug\Lighting.exe
