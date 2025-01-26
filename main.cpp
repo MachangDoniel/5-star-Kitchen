@@ -137,8 +137,8 @@ bool fridgeOpen = false;      // State of the fridge (open or closed)
 
 string diffuseMapPath = "container2.png";
 string specularMapPath = "container2_specular.png";
-string f_tiles = "tile.jpeg";
-string wood = "wood.jpeg";
+string f_tiles = "tile.jpg";
+string wood = "wood.jpg";
 string self = "self.jpg";
 string sofa = "sofa.jpg";
 string sofa2 = "sofa2.jpg";
